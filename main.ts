@@ -569,8 +569,6 @@ game.onUpdate(function () {
             . . . f f . . . . . f f . . . . 
             . . . . . . . . . . . . . . . . 
             `)
-    } else {
-    	
     }
     if (mr_meow.isHittingTile(CollisionDirection.Left) || mr_meow.isHittingTile(CollisionDirection.Right)) {
         mr_meow.vy = 0

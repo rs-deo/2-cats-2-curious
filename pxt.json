@@ -4,7 +4,8 @@
     "dependencies": {
         "device": "*",
         "sprite-scaling": "*",
-        "controller": "*"
+        "controller": "*",
+        "animation": "*"
     },
     "files": [
         "main.blocks",
@@ -18,7 +19,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.12.46",
+        "target": "1.12.58",
         "targetId": "arcade"
     },
     "supportedTargets": [
