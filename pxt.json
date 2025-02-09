@@ -1,5 +1,6 @@
 {
     "name": "2-CATS-2-CURIOUS",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*",
